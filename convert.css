@@ -1,0 +1,51 @@
+.container {
+    max-width: 400px;
+    padding: 10px;
+    text-align: center;
+    background-image: linear-gradient(rgb(134, 241, 134),rgb(240, 240, 71));
+    border-radius:20px;
+    
+}
+.container1 {
+    max-width: 400px;
+    padding: 10px;
+    text-align: center;
+    background-image: linear-gradient(rgb(103, 219, 248),rgb(245, 155, 233));
+    border-radius:20px;
+    
+}
+
+.background {
+    background-image: url("convertbg.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    padding: 200px;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+#result {
+    font-size: 20px;
+    font-weight: bold;
+}
+.result1{
+    font-size: 20px;
+    font-weight: bold;
+}
+.calculate-tip-button {
+    background-color: #264fa2;
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+    border-radius: 4px;
+    height:60px;
+    
+}
